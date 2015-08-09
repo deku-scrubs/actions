@@ -1,5 +1,5 @@
 {
-  "name": "actions",
+  "name": "@deku-scrubs/actions",
   "version": "0.1.0",
   "description": "Turn an object of event:handler pairs into a deku update function",
   "main": "lib/index.js",
